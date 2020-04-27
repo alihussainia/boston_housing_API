@@ -1,4 +1,6 @@
-# Operationalize a Machine Learning Microservice API
+# Boston Housing API Project
+
+## Operationalize a Machine Learning Microservice API
 
 ## Project Overview
 
